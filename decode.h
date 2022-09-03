@@ -1,3 +1,14 @@
+/*
+
+decode.h
+
+Property of LunarGuard LLC
+Written by AwesomeMc101
+
+Licensed under MIT
+
+*/
+
 #include <string>
 #include <iostream>
 #include <vector>
