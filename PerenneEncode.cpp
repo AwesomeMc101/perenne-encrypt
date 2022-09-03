@@ -1,4 +1,13 @@
+/*
 
+PerenneEncode.cpp
+
+Property of LunarGuard LLC
+Written by AwesomeMc101
+
+Licensed under MIT
+
+*/
 
 #include "decode.h"
 
